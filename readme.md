@@ -4,4 +4,7 @@ The leading spaced repitition study tool, Anki, lacks important fetures and cont
 ## Architecture
 Node.js server run on a free micro-vm (HerokuApp or other) with lightweight database
 Web View using React
-Android App
+? Android App
+## Process
+1 Set Up A Database
+2 Learn React with Prototype Front End
