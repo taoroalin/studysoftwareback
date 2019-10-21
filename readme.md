@@ -6,5 +6,10 @@ Node.js server run on a free micro-vm (HerokuApp or other) with lightweight data
 Web View using React
 ? Android App
 ## Process
-1 Set Up A Database
-2 Learn React with Prototype Front End
+1 Set Up A Database <-
+2 Make Database Structure
+3 Learn React with Prototype Front End
+4 MVP desktop app with local database
+5 Improve app
+6 Outsource server hosting
+7 Improve mobile experience
